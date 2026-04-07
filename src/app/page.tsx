@@ -60,23 +60,23 @@ export default function LandingPage() {
       tag="AI-Powered Trade Signals"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=1",
           imageAlt: "AI Trading Dashboard",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=1",
           imageAlt: "Market Data Analysis",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg?_wi=1",
           imageAlt: "Automated Trading Indicators",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg?_wi=1",
           imageAlt: "Risk Management Tools",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=2",
           imageAlt: "Advanced Analytics",
         },
       ]}
@@ -98,19 +98,19 @@ export default function LandingPage() {
           bentoComponent: "media-stack",
           items: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=2",
               imageAlt: "Pattern Analysis",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg?_wi=2",
               imageAlt: "Signal Indicators",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg?_wi=2",
               imageAlt: "Dashboard View",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=3",
           imageAlt: "modern trading chart analysis dashboard",
         },
       ]}
@@ -161,7 +161,7 @@ export default function LandingPage() {
           name: "Sarah J.",
           handle: "@sarah_trade",
           testimonial: "The SL and TP calculations are incredible.",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=3",
           imageAlt: "ai pattern recognition financial chart",
         },
         {
@@ -169,7 +169,7 @@ export default function LandingPage() {
           name: "Mike D.",
           handle: "@miked",
           testimonial: "Finally, an AI that understands market context.",
-          imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg?_wi=3",
           imageAlt: "professional trading software workspace",
         },
         {
@@ -177,7 +177,7 @@ export default function LandingPage() {
           name: "Alex R.",
           handle: "@alexr",
           testimonial: "My profit consistency has doubled since using TradeAI.",
-          imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg?_wi=3",
           imageAlt: "trading portfolio dashboard analytics",
         },
         {
@@ -185,7 +185,7 @@ export default function LandingPage() {
           name: "Jordan P.",
           handle: "@jordanp",
           testimonial: "Highly recommended for all levels of traders.",
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=4",
           imageAlt: "modern trading chart analysis dashboard",
         },
         {
@@ -193,7 +193,7 @@ export default function LandingPage() {
           name: "Chris B.",
           handle: "@chrisb",
           testimonial: "The best tool for technical analysis!",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=4",
           imageAlt: "ai pattern recognition financial chart",
         },
       ]}
@@ -248,7 +248,7 @@ export default function LandingPage() {
           required: true,
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=5"
     />
   </div>
 
