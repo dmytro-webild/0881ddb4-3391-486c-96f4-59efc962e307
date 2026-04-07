@@ -46,9 +46,9 @@ export default function LandingPage() {
       tag="AI-Powered Trade Signals"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg",          imageAlt: "AI Trading Dashboard"},
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=1",          imageAlt: "AI Trading Dashboard"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",          imageAlt: "Market Data Analysis"}
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=1",          imageAlt: "Market Data Analysis"}
       ]}
       mediaAnimation="slide-up"
       rating={5}
@@ -65,11 +65,11 @@ export default function LandingPage() {
         {
           title: "Pattern Recognition",          description: "Advanced AI scans candlestick formations to identify breakout signals instantly.",          bentoComponent: "media-stack",          items: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg",              imageAlt: "Pattern Analysis"},
+              imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=2",              imageAlt: "Pattern Analysis"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg",              imageAlt: "Signal Indicators"},
+              imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg?_wi=1",              imageAlt: "Signal Indicators"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg",              imageAlt: "Dashboard View"},
+              imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg?_wi=1",              imageAlt: "Dashboard View"},
           ]
         },
       ]}
@@ -99,11 +99,11 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Sarah J.", handle: "@sarah_trade", testimonial: "The SL and TP calculations are incredible.", imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg", imageAlt: "ai pattern recognition financial chart" },
-        { id: "2", name: "Mike D.", handle: "@miked", testimonial: "Finally, an AI that understands market context.", imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg", imageAlt: "professional trading software workspace" },
-        { id: "3", name: "Alex R.", handle: "@alexr", testimonial: "My profit consistency has doubled since using TradeAI.", imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg", imageAlt: "trading portfolio dashboard analytics" },
-        { id: "4", name: "Jordan P.", handle: "@jordanp", testimonial: "Highly recommended for all levels of traders.", imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg", imageAlt: "modern trading chart analysis dashboard" },
-        { id: "5", name: "Chris B.", handle: "@chrisb", testimonial: "The best tool for technical analysis!", imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg", imageAlt: "ai pattern recognition financial chart" },
+        { id: "1", name: "Sarah J.", handle: "@sarah_trade", testimonial: "The SL and TP calculations are incredible.", imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=3", imageAlt: "ai pattern recognition financial chart" },
+        { id: "2", name: "Mike D.", handle: "@miked", testimonial: "Finally, an AI that understands market context.", imageSrc: "http://img.b2bpic.net/free-photo/expert-meeting-with-accounting-staff-video-call-share-economic-situation_482257-120017.jpg?_wi=2", imageAlt: "professional trading software workspace" },
+        { id: "3", name: "Alex R.", handle: "@alexr", testimonial: "My profit consistency has doubled since using TradeAI.", imageSrc: "http://img.b2bpic.net/free-photo/mock-up-animation-financial-stock-market-data-software-with-different-diagrams-graphs_482257-26904.jpg?_wi=2", imageAlt: "trading portfolio dashboard analytics" },
+        { id: "4", name: "Jordan P.", handle: "@jordanp", testimonial: "Highly recommended for all levels of traders.", imageSrc: "http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=2", imageAlt: "modern trading chart analysis dashboard" },
+        { id: "5", name: "Chris B.", handle: "@chrisb", testimonial: "The best tool for technical analysis!", imageSrc: "http://img.b2bpic.net/free-photo/3d-render-modern-network-communications-science-background-with-plexus-design_1048-13217.jpg?_wi=4", imageAlt: "ai pattern recognition financial chart" },
       ]}
       title="Traders Love Us"
       description="See why top traders trust our signals."
@@ -134,7 +134,7 @@ export default function LandingPage() {
         { name: "name", type: "text", placeholder: "Your Name", required: true },
         { name: "email", type: "email", placeholder: "Email Address", required: true },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg?_wi=3"
     />
   </div>
 
